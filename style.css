@@ -1,0 +1,66 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#button{
+    padding: 15px 50px;
+    font-weight: 600;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    font-size: 20px;
+}
+#button:hover{
+    cursor: pointer;
+}
+body{
+    text-align: center;
+    font-family: "Podkova", serif;
+}
+h3{
+    padding: 10px 0px;
+    font-weight: 500;
+}
+input{
+    padding: 10px 10px;
+    width: 20%;
+    border-radius: 20px;
+}
+h1{
+    font-size: 38px;
+    font-weight: 700;
+}
+#cv-content h3{
+    font-size: 28px;
+    font-weight: 500;
+    padding: 20px 0px;
+}
+#cv-content h1{
+    color: #000;
+}
+#cv-content #first{
+    padding: 10px 20px;
+    /* background-color: aqua; */
+}
+#cv-content #para{
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 0px;
+}
+#cv-content li{
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: black;
+}
+#first h1{
+    text-transform: capitalize;
+    color: white;
+    font-size: 40px;
+}
+#generatedcv{
+    text-align: center;
+    background: linear-gradient(to left ,#004e92,#000428);
+    color: white;
+    padding: 30px 0px;
+}
